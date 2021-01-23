@@ -20,4 +20,8 @@ public class Calculator {
 			return j - i;
 		}
 	}
+
+	public float multiply() {
+		return i * j;
+	}
 }

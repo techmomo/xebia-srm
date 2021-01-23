@@ -14,5 +14,10 @@ public class App {
         
         result = calculator.sub();
         System.out.println("DIFF IS "+result);
+        
+        String name ="Hello";
+        String test ="usr";
+        int i=0;
+        
     }
 }
